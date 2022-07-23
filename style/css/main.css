@@ -793,17 +793,17 @@ body {
 @media (max-width: 765px) {
   .section-2 .hankan__content-inner .hankan__content__text-wrap {
     gap: none;
-    margin-top: 480px;
+    margin-top: 300px;
     
     }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      margin-bottom: -90px;
+      margin-bottom: -20px;
        
       
       }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
       font-size: 14px;
-      margin-top: 20px;
+      margin-top: 10px;
       
    }
 
