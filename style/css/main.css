@@ -794,7 +794,7 @@ body {
     gap: 1rem; }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
       margin-bottom: none;
-      height: auto;
+      padding: 0 80px;
       
       }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
