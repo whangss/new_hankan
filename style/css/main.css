@@ -802,7 +802,7 @@ body {
       }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
       font-size: 14px;
-      padding-top: 80px;
+      padding-top: -80px;
       
    }
 
