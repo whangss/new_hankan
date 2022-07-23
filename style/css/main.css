@@ -791,9 +791,10 @@ body {
 
 @media (max-width: 765px) {
   .section-2 .hankan__content-inner .hankan__content__text-wrap {
-    gap: 1rem; }
+    gap: 1rem; 
+    padding-top:20px;}
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      height: 550px;
+      margin-bottom: none;
 
       
       }
