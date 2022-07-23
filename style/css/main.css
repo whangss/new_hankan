@@ -793,7 +793,11 @@ body {
   .section-2 .hankan__content-inner .hankan__content__text-wrap {
     gap: 1rem; }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      gap: 5rem;
+       width: 143px;
+      height: 168px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
 
       
       }
