@@ -782,7 +782,7 @@ body {
     width: 100%;
     height: 100%; }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      padding-top: 90px;
+      
       width: 143px;
       height: 168px;
       background-position: center;
@@ -795,7 +795,7 @@ body {
     gap: 1rem; 
     }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      margin-bottom: none;
+      margin-bottom: -45px;
        
       
       }
