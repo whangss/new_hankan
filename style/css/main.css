@@ -793,7 +793,8 @@ body {
   .section-2 .hankan__content-inner .hankan__content__text-wrap {
     gap: 1rem; }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-img {
-      margin-bottom: 2rem; }
+      margin-bottom: 2rem;
+      margin-top: 4rem; }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
       font-size: 14px; } }
 
