@@ -799,14 +799,16 @@ body {
       
       }
     .section-2 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
-      font-size: 14px; } }
+      font-size: 14px;
+  padding-bottom: 30px;} }
 
 .section-3 .hankan__content-inner .hankan__content__text-wrap {
   width: 50%; }
   .section-3 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
     font-weight: 500;
     font-size: 40px;
-    line-height: 50px; }
+    line-height: 50px;
+    }
 
 .section-3 .hankan__content-inner .hankan__content-img {
   width: 100%;
