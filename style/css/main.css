@@ -1373,11 +1373,11 @@ body {
 }
 .section-6 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
   font-weight: 500;
-  font-size: 40px;
+  font-size: 70px;
   padding-left: 30px;
 }
 .section-6 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text.hankan__content-text--sm {
-  font-size: 24px;
+  font-size: 40px;
   line-height: 34px;
 }
 .section-6 .hankan__content-inner .hankan__content-img {
@@ -1406,7 +1406,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   width: fit-content;
-  font-size: 40px;
+  
 }
 .section-6 .hankan__content-inner .hankan__content-img .hankan__img.hankan__img--game1 {
   width: 20%;
