@@ -1370,6 +1370,7 @@ body {
   width: 50%;
   gap: 1rem;
   margin-bottom: 2rem;
+  font-size: 50px;
 }
 .section-6 .hankan__content-inner .hankan__content__text-wrap .hankan__content-text {
   font-weight: 500;
@@ -1928,6 +1929,7 @@ body {
   .hankan__footer-wrap .hankan__footer-inner .hankan__btn-wrap .hankan__btn {
     padding: 6px;
     font-size: 8px;
+    padding-left:-10px;
   }
 
   .hankan__footer-wrap .hankan__footer-inner .hankan__btn-wrap.hankan__btn-wrap--gray .hankan__btn {
