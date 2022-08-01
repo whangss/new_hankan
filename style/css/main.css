@@ -1694,7 +1694,7 @@ body {
   background-size: contain;
   position: relative;
   margin-top: 3rem;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  box-shadow: none;
 }
 
 .section-10 .hankan__content-inner .hankan__content-img .hankan__img.hankan__quiz {
@@ -1710,13 +1710,13 @@ body {
   background-image: url(../../image/images/다연.svg);
   width: 50%;
   margin-top: 0;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  
 }
 .section-10 .hankan__content-inner .hankan__content-img .hankan__img.quiz-img--2 {
   background-image: url(../../image/images/현호.svg);
   width: 50%;
   margin-top: 0;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  
 }
 
 .section-10 .hankan__content-inner .hankan__content-img .hankan__img.hankan__img--zpage {
